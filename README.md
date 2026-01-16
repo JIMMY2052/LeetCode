@@ -28,4 +28,8 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/JIMMY2052/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/JIMMY2052/LeetCode/tree/master/0013-roman-to-integer) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/JIMMY2052/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
