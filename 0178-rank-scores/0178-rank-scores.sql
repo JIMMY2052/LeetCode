@@ -1,9 +1,5 @@
-SELECT
-    s.Score as score,
-    (
-        SELECT COUNT(DISTINCT s2.Score)
-        FROM Scores s2
-        WHERE s2.Score > s.Score
-    ) + 1 AS 'rank'
-FROM Scores s
-ORDER BY s.Score DESC;
+SELECT S.score ,COUNT(S2.SCORE) as `rank` FROM SCORES S,
+(SELECT DISTINCT SCORE FROM SCORES)  S2
+WHERE S.SCORE<=S2.SCORE 
+GROUP BY S.ID 
+ORDER BY S.SCORE DESC;
