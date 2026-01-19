@@ -31,5 +31,6 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/JIMMY2052/LeetCode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/JIMMY2052/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
