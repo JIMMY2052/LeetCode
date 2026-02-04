@@ -43,6 +43,7 @@
 | [0585-investments-in-2016](https://github.com/JIMMY2052/LeetCode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/JIMMY2052/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/JIMMY2052/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/JIMMY2052/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [1045-customers-who-bought-all-products](https://github.com/JIMMY2052/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/JIMMY2052/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/JIMMY2052/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
