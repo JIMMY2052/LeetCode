@@ -46,6 +46,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/JIMMY2052/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/JIMMY2052/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0607-sales-person](https://github.com/JIMMY2052/LeetCode/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/JIMMY2052/LeetCode/tree/master/0610-triangle-judgement) |
 | [1045-customers-who-bought-all-products](https://github.com/JIMMY2052/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/JIMMY2052/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/JIMMY2052/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
