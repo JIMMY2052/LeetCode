@@ -48,6 +48,7 @@
 | [0607-sales-person](https://github.com/JIMMY2052/LeetCode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/JIMMY2052/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/JIMMY2052/LeetCode/tree/master/0619-biggest-single-number) |
+| [0627-swap-sex-of-employees](https://github.com/JIMMY2052/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/JIMMY2052/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/JIMMY2052/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/JIMMY2052/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
