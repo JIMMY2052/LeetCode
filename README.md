@@ -55,6 +55,7 @@
 | [1084-sales-analysis-iii](https://github.com/JIMMY2052/LeetCode/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/JIMMY2052/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/JIMMY2052/LeetCode/tree/master/1193-monthly-transactions-i) |
+| [1211-queries-quality-and-percentage](https://github.com/JIMMY2052/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/JIMMY2052/LeetCode/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/JIMMY2052/LeetCode/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
