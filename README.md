@@ -58,4 +58,5 @@
 | [1211-queries-quality-and-percentage](https://github.com/JIMMY2052/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/JIMMY2052/LeetCode/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/JIMMY2052/LeetCode/tree/master/1341-movie-rating) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/JIMMY2052/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
