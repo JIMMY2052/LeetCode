@@ -1,7 +1,8 @@
-# Write your MySQL query statement below
-Select c.visited_on, sum(t.amount) as amount , ROUND((sum(t.amount)/7),2)as average_amount
-from (Select visited_on, sum(amount) as amount
-from Customer group by visited_on ) as c, (Select visited_on, sum(amount) as amount
-from Customer group by visited_on ) as t
-where c.visited_on>=t.visited_on and DATEDIFF(c.visited_on,t.visited_on)<=6
-group by c.visited_on having count(distinct t.visited_on)=7
+SELECT visited_on, amount, ROUND(amount/7, 2) AS average_amount
+FROM (
+    SELECT DISTINCT visited_on,
+    SUM(amount) OVER(ORDER BY visited_on RANGE BETWEEN INTERVAL 6 DAY PRECEDING AND CURRENT ROW) AS amount,
+    MIN(visited_on) OVER() day_1
+    FROM Customer
+) t
+WHERE visited_on >= day_1+6;
