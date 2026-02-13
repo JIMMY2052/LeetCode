@@ -1,7 +1,2 @@
-with temp as (
-select * , count(primary_flag)over(partition by employee_id ) as cnt
-from Employee)
-
-select employee_id , department_id
-from temp
-where (cnt = 1) or (cnt >1 and primary_flag = 'Y')
+SELECT employee_id, department_id FROM Employee
+WHERE primary_flag = "Y" OR employee_id in (SELECT employee_id FROM Employee GROUP BY employee_id HAVING COUNT(department_id) = 1)
