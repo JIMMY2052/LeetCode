@@ -68,5 +68,6 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/JIMMY2052/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/JIMMY2052/LeetCode/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/JIMMY2052/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
+| [1683-invalid-tweets](https://github.com/JIMMY2052/LeetCode/tree/master/1683-invalid-tweets) |
 | [1789-primary-department-for-each-employee](https://github.com/JIMMY2052/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
