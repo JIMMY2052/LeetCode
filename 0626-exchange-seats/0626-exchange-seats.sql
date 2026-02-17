@@ -1,7 +1,18 @@
-with cte as(select id,student,coalesce(lead(student)over(order by id),student) as next,ifnull(lag(student) over(order by id),student) as prev
-from seat)
-select id,case when id%2=1 then next
-when id%2=0 then prev
-else student end as student
-from cte
+
+select
+case 
+when id % 2 = 0 then id-1
+when id % 2 = 1 and id < (SELECT MAX(id) FROM Seat) THEN id + 1
+else id end as id, student
+from seat
 order by id
+
+-- select 
+-- case 
+-- when id % 2 = 0 then id-1
+-- when id % 2 = 1 and id < (SELECT MAX(id) FROM Seat) THEN id + 1
+-- else id
+-- end as id,
+-- student
+-- from seat
+-- order by id 
