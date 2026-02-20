@@ -74,6 +74,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/JIMMY2052/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/JIMMY2052/LeetCode/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/JIMMY2052/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
+| [1517-find-users-with-valid-e-mails](https://github.com/JIMMY2052/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/JIMMY2052/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/JIMMY2052/LeetCode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/JIMMY2052/LeetCode/tree/master/1683-invalid-tweets) |
