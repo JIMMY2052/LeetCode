@@ -1,12 +1,10 @@
 # Write your MySQL query statement below
 
-with cte as (
-SELECT *,  week(meeting_date,3) as week FROM meetings
-), cta as (
+with cta as (
 SELECT e.employee_id, SUM(duration_hours) as total
-FROM employees e JOIN (SELECT * FROM cte) m
+FROM employees e JOIN meetings m
 ON e.employee_id = m.employee_id
-GROUP BY employee_id, week
+GROUP BY employee_id, week(meeting_date,3)
 )
 
 SELECT e.employee_id , employee_name, department, count(*) as meeting_heavy_weeks
