@@ -88,6 +88,7 @@
 | [1789-primary-department-for-each-employee](https://github.com/JIMMY2052/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/JIMMY2052/LeetCode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/JIMMY2052/LeetCode/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/JIMMY2052/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/JIMMY2052/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3421-find-students-who-improved](https://github.com/JIMMY2052/LeetCode/tree/master/3421-find-students-who-improved) |
 | [3611-find-overbooked-employees](https://github.com/JIMMY2052/LeetCode/tree/master/3611-find-overbooked-employees) |
