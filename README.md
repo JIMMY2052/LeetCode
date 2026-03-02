@@ -88,6 +88,7 @@
 | [1789-primary-department-for-each-employee](https://github.com/JIMMY2052/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/JIMMY2052/LeetCode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/JIMMY2052/LeetCode/tree/master/1873-calculate-special-bonus) |
+| [1890-the-latest-login-in-2020](https://github.com/JIMMY2052/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/JIMMY2052/LeetCode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/JIMMY2052/LeetCode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/JIMMY2052/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
