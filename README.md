@@ -97,6 +97,7 @@
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/JIMMY2052/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3421-find-students-who-improved](https://github.com/JIMMY2052/LeetCode/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/JIMMY2052/LeetCode/tree/master/3436-find-valid-emails) |
+| [3564-seasonal-sales-analysis](https://github.com/JIMMY2052/LeetCode/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/JIMMY2052/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 | [3611-find-overbooked-employees](https://github.com/JIMMY2052/LeetCode/tree/master/3611-find-overbooked-employees) |
 <!---LeetCode Topics End-->
