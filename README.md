@@ -97,6 +97,7 @@
 | [1934-confirmation-rate](https://github.com/JIMMY2052/LeetCode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/JIMMY2052/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/JIMMY2052/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3220-odd-and-even-transactions](https://github.com/JIMMY2052/LeetCode/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/JIMMY2052/LeetCode/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/JIMMY2052/LeetCode/tree/master/3436-find-valid-emails) |
 | [3564-seasonal-sales-analysis](https://github.com/JIMMY2052/LeetCode/tree/master/3564-seasonal-sales-analysis) |
