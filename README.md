@@ -100,6 +100,7 @@
 | [3220-odd-and-even-transactions](https://github.com/JIMMY2052/LeetCode/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/JIMMY2052/LeetCode/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/JIMMY2052/LeetCode/tree/master/3436-find-valid-emails) |
+| [3497-analyze-subscription-conversion](https://github.com/JIMMY2052/LeetCode/tree/master/3497-analyze-subscription-conversion) |
 | [3564-seasonal-sales-analysis](https://github.com/JIMMY2052/LeetCode/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/JIMMY2052/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 | [3611-find-overbooked-employees](https://github.com/JIMMY2052/LeetCode/tree/master/3611-find-overbooked-employees) |
