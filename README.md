@@ -11,6 +11,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JIMMY2052/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/JIMMY2052/LeetCode/tree/master/0013-roman-to-integer) |
+| [2573-find-the-string-with-lcp](https://github.com/JIMMY2052/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 ## Sliding Window
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/JIMMY2052/LeetCode/tree/master/0414-third-maximum-number) |
+| [2573-find-the-string-with-lcp](https://github.com/JIMMY2052/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 ## Sorting
 |  |
 | ------- |
@@ -106,4 +108,20 @@
 | [3580-find-consistently-improving-employees](https://github.com/JIMMY2052/LeetCode/tree/master/3580-find-consistently-improving-employees) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/JIMMY2052/LeetCode/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 | [3611-find-overbooked-employees](https://github.com/JIMMY2052/LeetCode/tree/master/3611-find-overbooked-employees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/JIMMY2052/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+## Greedy
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/JIMMY2052/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/JIMMY2052/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+## Matrix
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/JIMMY2052/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
