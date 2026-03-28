@@ -1,15 +1,6 @@
--- with cte as (SELECT user_id, product_id
--- FROM productPurchases 
--- GROUP BY user_id, product_id)
-
--- SELECT product_id as p1, lead(product_id) over(partition by user_id) as p2
--- FROM cte 
-
-
 with cte as(SELECT  p1.product_id as p1, p2.product_id as p2
 FROM ProductPurchases p1 
 JOIN ProductPurchases p2 ON p1.user_id = p2.user_id and P1.product_id < p2.product_id)
-
 ,cta as (SELECT *, count(*) as 'customer_count'
 FROM cte 
 GROUP BY p1,p2)
