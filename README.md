@@ -103,6 +103,7 @@
 | [3421-find-students-who-improved](https://github.com/JIMMY2052/LeetCode/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/JIMMY2052/LeetCode/tree/master/3436-find-valid-emails) |
 | [3497-analyze-subscription-conversion](https://github.com/JIMMY2052/LeetCode/tree/master/3497-analyze-subscription-conversion) |
+| [3521-find-product-recommendation-pairs](https://github.com/JIMMY2052/LeetCode/tree/master/3521-find-product-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/JIMMY2052/LeetCode/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/JIMMY2052/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 | [3580-find-consistently-improving-employees](https://github.com/JIMMY2052/LeetCode/tree/master/3580-find-consistently-improving-employees) |
