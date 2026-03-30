@@ -9,9 +9,3 @@ SELECT u.product_id , coalesce(round(sum(unitprice)/ units, 2),0) as average_pri
 FROM totalUnit t RIGHT JOIN unitPriceList u 
 ON t.product_id = u.product_id
 GROUP BY u.product_id
-
-
-
-
-
-
