@@ -1,3 +1,4 @@
+# Write your MySQL query statement below
 select
 st.student_id,
 st.student_name,
