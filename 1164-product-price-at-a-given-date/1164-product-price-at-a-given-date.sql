@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+# Write your MySQL query statement below
 
 
 
@@ -10,6 +11,5 @@ p as (SELECT product_id FROM products GROUP BY product_id)
 SELECT p.product_id, coalesce(t.new_price,10) as price
 FROM (SELECT product_id FROM p) p LEFT JOIN  (SELECT product_id, new_price FROM cte WHERE num =1) t
 ON p.product_id = t.product_id
-
 
 
