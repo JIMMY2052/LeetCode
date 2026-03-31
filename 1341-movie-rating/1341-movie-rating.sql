@@ -1,3 +1,4 @@
+# Write your MySQL query statement below
 SELECT results
 FROM (
     SELECT u.name AS results
