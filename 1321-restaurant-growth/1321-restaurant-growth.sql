@@ -1,3 +1,4 @@
+# Write your MySQL query statement below
 SELECT visited_on, amount, ROUND(amount/7, 2) AS average_amount
 FROM (
     SELECT DISTINCT visited_on,
