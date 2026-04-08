@@ -108,6 +108,7 @@
 | [3220-odd-and-even-transactions](https://github.com/JIMMY2052/LeetCode/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/JIMMY2052/LeetCode/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/JIMMY2052/LeetCode/tree/master/3436-find-valid-emails) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/JIMMY2052/LeetCode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3482-analyze-organization-hierarchy](https://github.com/JIMMY2052/LeetCode/tree/master/3482-analyze-organization-hierarchy) |
 | [3497-analyze-subscription-conversion](https://github.com/JIMMY2052/LeetCode/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/JIMMY2052/LeetCode/tree/master/3521-find-product-recommendation-pairs) |
