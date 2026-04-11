@@ -26,7 +26,7 @@ FROM d JOIN c
 on d.user_id = c.user_id
 JOIN a
 ON d.user_id = a.user_id
-WHERE c.current_monthly_amount / d.m * 100 < 50
+WHERE c.current_monthly_amount / d.m  < .5
 ORDER BY  days_as_subscriber DESC, user_id
 
 
