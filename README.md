@@ -24,6 +24,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JIMMY2052/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JIMMY2052/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/JIMMY2052/LeetCode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/JIMMY2052/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0414-third-maximum-number](https://github.com/JIMMY2052/LeetCode/tree/master/0414-third-maximum-number) |
 | [2573-find-the-string-with-lcp](https://github.com/JIMMY2052/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 ## Sorting
@@ -162,4 +163,5 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/JIMMY2052/LeetCode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/JIMMY2052/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
